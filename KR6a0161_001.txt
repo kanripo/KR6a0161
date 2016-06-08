@@ -1,18 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:33:14.090132
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:01
 #+TITLE: 人本欲生經註
 #+PROPERTY: CBETA_ID T33n1693
 #+PROPERTY: ID KR6a0161
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 33, No. 1693
 #+PROPERTY: VOL 33
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6a0161_T_001-0001a> 
 #+PROPERTY: JUAN 1
 ¶
 No. 1693 [cf. No. 14]¶
 
-人本欲生經序¶
+* 人本欲生經序¶
 ¶
 
 人本欲生經者。照于十二因緣而成四諦也¶
@@ -760,7 +760,7 @@ No. 1693 [cf. No. 14]¶
 陰盡行道。又曰。亦知色味亦知色出要。此七¶
 處也。三觀者。觀身色觀五陰觀六情也。三觀¶
 即七處之每第一陰入也。言以道諦盡諦苦¶
-出要諦。觀陰人及樂而陰之也。五陰[聲-耳+卵]蓋經¶
+出要諦。觀陰人及樂而陰之也。五陰𣫘蓋經¶
 以五陰為五習盡為七處昧苦出要為三觀。¶
 文小異大同身三經唯七處三觀經有道諦二¶
 經皆七事而已。然俱曰行道亦道諦也。皆曰¶
